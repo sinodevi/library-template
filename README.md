@@ -1,2 +1,1 @@
-# module-template
- 
+# library-template
